@@ -130,3 +130,118 @@ Processing by AboutUsController#index as HTML
 Completed 200 OK in 301ms (Views: 289.7ms | ActiveRecord: 0.0ms)
 
 
+Started GET "/about_us/index" for 127.0.0.1 at 2017-01-31 15:15:31 -0500
+Processing by AboutUsController#index as HTML
+  Rendering about_us/index.html.erb within layouts/application
+  Rendered about_us/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 281ms (Views: 276.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about_us/index" for 127.0.0.1 at 2017-01-31 15:15:49 -0500
+Processing by AboutUsController#index as HTML
+  Rendering about_us/index.html.erb within layouts/application
+  Rendered about_us/index.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 137ms (Views: 131.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about_us/index" for 127.0.0.1 at 2017-01-31 15:15:57 -0500
+Processing by AboutUsController#index as HTML
+  Rendering about_us/index.html.erb within layouts/application
+  Rendered about_us/index.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 183ms (Views: 179.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about_us/index" for 127.0.0.1 at 2017-01-31 15:16:23 -0500
+Processing by AboutUsController#index as HTML
+  Rendering about_us/index.html.erb within layouts/application
+  Rendered about_us/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 44ms (Views: 40.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about_us/index" for 127.0.0.1 at 2017-01-31 15:19:50 -0500
+Processing by AboutUsController#index as HTML
+  Rendering about_us/index.html.erb within layouts/application
+  Rendered about_us/_our_goals.html.erb (1.0ms)
+  Rendered about_us/index.html.erb within layouts/application (19.8ms)
+Completed 200 OK in 297ms (Views: 287.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about_us/index" for 127.0.0.1 at 2017-01-31 15:21:07 -0500
+Processing by AboutUsController#index as HTML
+  Rendering about_us/index.html.erb within layouts/application
+  Rendered about_us/_our_goals.html.erb (0.7ms)
+  Rendered about_us/_our_history.html.erb (1.2ms)
+  Rendered about_us/index.html.erb within layouts/application (42.0ms)
+Completed 200 OK in 276ms (Views: 271.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about_us/index" for 127.0.0.1 at 2017-01-31 15:23:28 -0500
+Processing by AboutUsController#index as HTML
+  Rendering about_us/index.html.erb within layouts/application
+  Rendered about_us/_our_goals.html.erb (0.9ms)
+  Rendered about_us/_our_history.html.erb (0.8ms)
+  Rendered about_us/_our_team.html.erb (1.6ms)
+  Rendered about_us/index.html.erb within layouts/application (86.1ms)
+Completed 200 OK in 350ms (Views: 339.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about_us/index" for 127.0.0.1 at 2017-01-31 15:28:02 -0500
+Processing by AboutUsController#index as HTML
+  Rendering about_us/index.html.erb within layouts/application
+  Rendered about_us/_our_goals.html.erb (1.4ms)
+  Rendered about_us/_our_history.html.erb (2.5ms)
+  Rendered about_us/_our_team.html.erb (2.0ms)
+  Rendered about_us/index.html.erb within layouts/application (56.7ms)
+Completed 200 OK in 315ms (Views: 304.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about_us/index" for 127.0.0.1 at 2017-01-31 15:31:47 -0500
+Processing by AboutUsController#index as HTML
+  Rendering about_us/index.html.erb within layouts/application
+  Rendered about_us/_our_goals.html.erb (1.0ms)
+  Rendered about_us/_our_history.html.erb (1.3ms)
+  Rendered about_us/_our_team.html.erb (1.1ms)
+  Rendered about_us/index.html.erb within layouts/application (66.9ms)
+Completed 200 OK in 641ms (Views: 630.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about_us/index" for 127.0.0.1 at 2017-01-31 15:34:16 -0500
+Processing by AboutUsController#index as HTML
+  Rendering about_us/index.html.erb within layouts/application
+  Rendered about_us/_our_goals.html.erb (1.4ms)
+  Rendered about_us/_our_history.html.erb (1.5ms)
+  Rendered about_us/_our_team.html.erb (1.4ms)
+  Rendered about_us/index.html.erb within layouts/application (77.9ms)
+Completed 200 OK in 558ms (Views: 547.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about_us/index" for 127.0.0.1 at 2017-01-31 15:35:51 -0500
+Processing by AboutUsController#index as HTML
+  Rendering about_us/index.html.erb within layouts/application
+  Rendered about_us/_our_goals.html.erb (4.1ms)
+  Rendered about_us/_our_history.html.erb (1.5ms)
+  Rendered about_us/_our_team.html.erb (1.6ms)
+  Rendered about_us/index.html.erb within layouts/application (67.0ms)
+Completed 200 OK in 638ms (Views: 627.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about_us/index" for 127.0.0.1 at 2017-01-31 15:36:03 -0500
+Processing by AboutUsController#index as HTML
+  Rendering about_us/index.html.erb within layouts/application
+  Rendered about_us/_our_goals.html.erb (1.1ms)
+  Rendered about_us/_our_history.html.erb (0.8ms)
+  Rendered about_us/_our_team.html.erb (0.9ms)
+  Rendered about_us/index.html.erb within layouts/application (55.7ms)
+Completed 200 OK in 331ms (Views: 326.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about_us/index" for 127.0.0.1 at 2017-01-31 15:37:02 -0500
+Processing by AboutUsController#index as HTML
+  Rendering about_us/index.html.erb within layouts/application
+  Rendered about_us/_our_goals.html.erb (0.9ms)
+  Rendered about_us/_our_history.html.erb (0.8ms)
+  Rendered about_us/_our_team.html.erb (1.3ms)
+  Rendered about_us/index.html.erb within layouts/application (67.0ms)
+Completed 200 OK in 484ms (Views: 471.3ms | ActiveRecord: 0.0ms)
+
+

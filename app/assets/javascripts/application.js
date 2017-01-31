@@ -14,3 +14,11 @@
 //= require jquery_ujs
 //= require turbolinks
 //= require_tree .
+
+// $(document).on("click", "#element", function(){
+//    // do something here
+// });
+
+$(document).on("click", ".subheader", function(){
+  $(".subheader-content").show();
+});
